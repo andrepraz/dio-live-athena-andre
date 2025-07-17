@@ -1,4 +1,4 @@
-# dio-live-athena
+# dio-live-athena-andre
 Repositório para a live do dia 16/07/2025 sobre o Amazon Athena (modificado por André Ricardo)
 
 ### Serviços utilizados nessa atividade prática
